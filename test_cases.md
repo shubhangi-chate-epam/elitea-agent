@@ -2,9 +2,9 @@
 
 Total test cases: 16
 
-Category-wise breakdown: Positive (4), Negative (4), Boundary (2), Security (1), Performance (1), UI/UX (1), Integration (1), Compatibility (1), Accessibility (1), Localization (0), Regression (0), Edge Cases (0), Data Validation (0), Compliance (0)
+Category-wise breakdown: Positive (4), Negative (4), Boundary (2), Security (1), Performance (2), UI/UX (1), Integration (0), Compatibility (0), Accessibility (0), Localization (0), Regression (0), Edge Cases (0), Data Validation (0), Compliance (0)
 
-Priority-wise breakdown: P1 (6), P2 (7), P3 (3), P4 (0)
+Priority-wise breakdown: P1 (8), P2 (6), P3 (2), P4 (0)
 
 # Test Cases
 
